@@ -2,7 +2,7 @@
 
 # Nexmo Node.js Smaple App
 
-## Whow to Start
+## How to Start
 1. Create an account on Nexmo and verify your phone number.
 2. Add needed credentials in config in .env file
 
