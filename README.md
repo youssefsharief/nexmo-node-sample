@@ -17,3 +17,6 @@ POST http://localhost:3000/api/sms
 	"message": "This is a message"
 }
 
+## Notice
+
+No bulk messaging is available for Nexmo
